@@ -1,0 +1,57 @@
+body {
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 0.1mm;
+    outline-offset: -30mm;
+    padding: 6.5%; 
+}
+
+p {
+    font-family: Helvetica;
+    font-weight: normal;
+    color: black;
+}
+
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.header-title {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('Images/pattern.jpeg');
+}
+
+.header-title {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('Images/pattern.jpeg');
+}
+
+.product-title {
+    text-align: left;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes-title {
+    background-color: mediumspringgreen;
+}
+
+#frames-title {
+    background-color: lightcoral;
+}
+
+#paint-title {
+    background-color: skyblue;
+}
